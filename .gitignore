@@ -1,0 +1,23 @@
+# Dataset files
+data/HAM10000/
+data/ISIC_Segmentation/
+data/processed/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training checkpoints
+*.weights.h5
+*.h5
+
+# Temporary files
+*.log
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
