@@ -325,19 +325,7 @@ Image-processing and ABCD analysis can be used without a trained classification 
 - Validate performance on independent dermoscopic datasets.
 - Improve dataset balancing and generalization.
 
-## 11. Team Contributions
-
-DermAssist is developed as a collaborative academic project by a team of three members.
-
-The project work is organized into three major areas:
-
-| Member | Responsibilities |
-|---|---|
-| Member 1 | Image preprocessing, hair removal, CLAHE, Otsu segmentation and ABCD feature extraction |
-| Member 2 | Dataset preparation, MobileNetV2 training and model evaluation |
-| Member 3 | Grad-CAM explainability, Streamlit frontend and project integration |
-
-## 12. Ethical and Medical Disclaimer
+## 11. Ethical and Medical Disclaimer
 
 DermAssist is developed exclusively for educational, experimental and research purposes.
 
